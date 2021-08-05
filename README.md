@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nick-N24
 - 👀 I’m interested in software engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
